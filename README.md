@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @piotrromankiewicz
+- 👀 I’m interested in DevOps as a methodology.
+- 🌱 I’m currently learning Kubernetes and Ansible.
+- 💞️ I’m looking to collaborate on bigger Python project.
+- 📫 How to reach me pr.romankiewicz@gmail.com
